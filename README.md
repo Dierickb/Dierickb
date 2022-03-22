@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Nodejs, python, C and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Linkedin: https://www.linkedin.com/in/dierickb
 
 <!---
 Dierickb/Dierickb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
