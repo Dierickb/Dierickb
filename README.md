@@ -42,6 +42,8 @@
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='React' src='https://img.shields.io/badge/ReactJS-100000?style=flat&logo=React&logoColor=0077FF&labelColor=FFFFFF&color=D7D7D7'/></a>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Electron' src='https://img.shields.io/badge/ElectronJS-100000?style=flat&logo=Electron&logoColor=0D00FF&labelColor=FFFFFF&color=D7D7D7'/></a>
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='PYTHON' src='https://img.shields.io/badge/Python-100000?style=flat&logo=PYTHON&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sqlite' src='https://img.shields.io/badge/SQLite-100000?style=plastic&logo=sqlite&logoColor=6A61FF&labelColor=FFFFFF&color=D7D7D7'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=000000&labelColor=FFFFFF&color=D7D7D7'/></a>
   </div>
 </td>  
 
@@ -53,6 +55,25 @@
     <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='r' src='https://img.shields.io/badge/-100000?style=flat&logo=r&logoColor=0D00FF&labelColor=FFFFFF&color=FFFFFF'/></a>
   </div>
 </td>  
+</tr>
+
+<tr>
+<td width="50%" COLSPAN="2">
+  <h3 align="center">Other skills</h3>
+  <div align="center" >
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='power bi' src='https://img.shields.io/badge/Power_Bi-100000?style=plastic&logo=power bi&logoColor=FFE600&labelColor=E7FFE5&color=D7FFD3'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='git' src='https://img.shields.io/badge/Git-100000?style=plastic&logo=git&logoColor=FF0C0C&labelColor=E7FFE5&color=D7FFD3'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sourcetree' src='https://img.shields.io/badge/SourceTree-100000?style=plastic&logo=sourcetree&logoColor=0D00FF&labelColor=E7FFE5&color=D7FFD3'/></a>
+    <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='slack' src='https://img.shields.io/badge/Slack-100000?style=plastic&logo=slack&logoColor=000000&labelColor=E7FFE5&color=D7FFD3'/></a>
+    <div>
+      <p>Comunication</p>
+      <p>Creativity</p>
+      <p>Adaptability</p>
+      <p>Critical thinking</p>
+    </div>
+  </div>
+</td>  
+</tr>
 </table>     
 
 
