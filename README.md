@@ -37,22 +37,22 @@
 <td width="50%">
   <h3 align="center">Expirience developing with </h3>
   <div align="center">
-    <span target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat&logo=javascript&logoColor=FFEE00&labelColor=000000&color=D7D7D7'/></span>
-    <span target="_blank"><img alt='nodedotjs' src='https://img.shields.io/badge/NodeJS-100000?style=flat&logo=nodedotjs&logoColor=04FF00&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span target="_blank"><img alt='React' src='https://img.shields.io/badge/ReactJS-100000?style=flat&logo=React&logoColor=0077FF&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span target="_blank"><img alt='Electron' src='https://img.shields.io/badge/ElectronJS-100000?style=flat&logo=Electron&logoColor=0D00FF&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span target="_blank"><img alt='PYTHON' src='https://img.shields.io/badge/Python-100000?style=flat&logo=PYTHON&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></span>
-    <span target="_blank"><img alt='sqlite' src='https://img.shields.io/badge/SQLite-100000?style=plastic&logo=sqlite&logoColor=6A61FF&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span target="_blank"><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=000000&labelColor=FFFFFF&color=D7D7D7'/></span>
+    <span><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat&logo=javascript&logoColor=FFEE00&labelColor=000000&color=D7D7D7'/></span>
+    <span><img alt='nodedotjs' src='https://img.shields.io/badge/NodeJS-100000?style=flat&logo=nodedotjs&logoColor=04FF00&labelColor=FFFFFF&color=D7D7D7'/></span>
+    <span><img alt='React' src='https://img.shields.io/badge/ReactJS-100000?style=flat&logo=React&logoColor=0077FF&labelColor=FFFFFF&color=D7D7D7'/></span>
+    <span><img alt='Electron' src='https://img.shields.io/badge/ElectronJS-100000?style=flat&logo=Electron&logoColor=0D00FF&labelColor=FFFFFF&color=D7D7D7'/></span>
+    <span><img alt='PYTHON' src='https://img.shields.io/badge/Python-100000?style=flat&logo=PYTHON&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></span>
+    <span><img alt='sqlite' src='https://img.shields.io/badge/SQLite-100000?style=plastic&logo=sqlite&logoColor=6A61FF&labelColor=FFFFFF&color=D7D7D7'/></span>
+    <span><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=000000&labelColor=FFFFFF&color=D7D7D7'/></span>
   </div>
 </td>  
 
 <td width="50%">
   <h3 align="center">I'm currently learning</h3>
   <div align="center" >
-    <span target="_blank"><img alt='angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=angular&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></span>
-    <span target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=1500FF&labelColor=FFFFFF&color=FFFFFF'/></span>
-    <span target="_blank"><img alt='r' src='https://img.shields.io/badge/-100000?style=flat&logo=r&logoColor=0D00FF&labelColor=FFFFFF&color=FFFFFF'/></span>
+    <span><img alt='angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=angular&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></span>
+    <span><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=1500FF&labelColor=FFFFFF&color=FFFFFF'/></span>
+    <span><img alt='r' src='https://img.shields.io/badge/-100000?style=flat&logo=r&logoColor=0D00FF&labelColor=FFFFFF&color=FFFFFF'/></span>
   </div>
 </td>  
 </tr>
@@ -61,10 +61,10 @@
 <td width="50%" COLSPAN="2">
   <h3 align="center">Other skills</h3>
   <div align="center" >
-    <span target="_blank"><img alt='power bi' src='https://img.shields.io/badge/Power_Bi-100000?style=plastic&logo=power bi&logoColor=FFE600&labelColor=E7FFE5&color=D7FFD3'/></span>
-    <span target="_blank"><img alt='git' src='https://img.shields.io/badge/Git-100000?style=plastic&logo=git&logoColor=FF0C0C&labelColor=E7FFE5&color=D7FFD3'/></span>
-    <span target="_blank"><img alt='sourcetree' src='https://img.shields.io/badge/SourceTree-100000?style=plastic&logo=sourcetree&logoColor=0D00FF&labelColor=E7FFE5&color=D7FFD3'/></span>
-    <a target="_blank"><img alt='slack' src='https://img.shields.io/badge/Slack-100000?style=plastic&logo=slack&logoColor=000000&labelColor=E7FFE5&color=D7FFD3'/></span>
+    <span><img alt='power bi' src='https://img.shields.io/badge/Power_Bi-100000?style=plastic&logo=power bi&logoColor=FFE600&labelColor=E7FFE5&color=D7FFD3'/></span>
+    <span><img alt='git' src='https://img.shields.io/badge/Git-100000?style=plastic&logo=git&logoColor=FF0C0C&labelColor=E7FFE5&color=D7FFD3'/></span>
+    <span><img alt='sourcetree' src='https://img.shields.io/badge/SourceTree-100000?style=plastic&logo=sourcetree&logoColor=0D00FF&labelColor=E7FFE5&color=D7FFD3'/></span>
+    <span><img alt='slack' src='https://img.shields.io/badge/Slack-100000?style=plastic&logo=slack&logoColor=000000&labelColor=E7FFE5&color=D7FFD3'/></span>
     <div>
       <p>Comunication</p>
       <p>Creativity</p>
