@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/dierickbrochero">Dierickb</a> 👋</h1>
 </div>
 
+<img src="https://github.com/Dierickb/Dierickb/assets/71480347/0d737e39-9d02-47f0-9494-3f06a866dbc9">
+
 [![Dierickb](https://img.shields.io/badge/Dierickb-gray?style=flat&logo=Github&logoColor=White&link=https://github.com/Dierickb)](https://github.com/Dierickb)
 [![Dierick Brochero](https://img.shields.io/badge/Dierick%20Brochero-Developer%20Profile-green?style=social&logo=linkedin&logoColor=Blue&link=https://www.linkedin.com/in/dierickbrochero/)](https://www.linkedin.com/in/dierickbrochero/)
 
