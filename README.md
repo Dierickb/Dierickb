@@ -44,30 +44,27 @@
       <p>Template diseñado para interacción de formularios mediante "Cards" con un estilo spinner </p>
     </div>
   </td> 
-</tr>
-
-<tr>
-<td width="50%">
-  <h3 align="center">Expirience developing with </h3>
-  <div align="center">
-    <span><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat&logo=javascript&logoColor=FFEE00&labelColor=000000&color=D7D7D7'/></span>
-    <span><img alt='nodedotjs' src='https://img.shields.io/badge/NodeJS-100000?style=flat&logo=nodedotjs&logoColor=04FF00&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span><img alt='React' src='https://img.shields.io/badge/ReactJS-100000?style=flat&logo=React&logoColor=0077FF&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span><img alt='Electron' src='https://img.shields.io/badge/ElectronJS-100000?style=flat&logo=Electron&logoColor=0D00FF&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span><img alt='PYTHON' src='https://img.shields.io/badge/Python-100000?style=flat&logo=PYTHON&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></span>
-    <span><img alt='sqlite' src='https://img.shields.io/badge/SQLite-100000?style=plastic&logo=sqlite&logoColor=6A61FF&labelColor=FFFFFF&color=D7D7D7'/></span>
-    <span><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=000000&labelColor=FFFFFF&color=D7D7D7'/></span>
-  </div>
-</td>  
-
-<td width="50%">
-  <h3 align="center">I'm currently learning</h3>
-  <div align="center" >
-    <span><img alt='angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=angular&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></span>
-    <span><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=1500FF&labelColor=FFFFFF&color=FFFFFF'/></span>
-    <span><img alt='r' src='https://img.shields.io/badge/-100000?style=flat&logo=r&logoColor=0D00FF&labelColor=FFFFFF&color=FFFFFF'/></span>
-  </div>
-</td>  
+  <td width="50%">
+    <section>
+      <h3 align="center">Expirience developing with </h3>
+      <div align="center">
+        <span><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat&logo=javascript&logoColor=FFEE00&labelColor=000000&color=D7D7D7'/></span>
+        <span><img alt='nodedotjs' src='https://img.shields.io/badge/NodeJS-100000?style=flat&logo=nodedotjs&logoColor=04FF00&labelColor=FFFFFF&color=D7D7D7'/></span>
+        <span><img alt='React' src='https://img.shields.io/badge/ReactJS-100000?style=flat&logo=React&logoColor=0077FF&labelColor=FFFFFF&color=D7D7D7'/></span>
+        <span><img alt='sqlite' src='https://img.shields.io/badge/SQLite-100000?style=plastic&logo=sqlite&logoColor=6A61FF&labelColor=FFFFFF&color=D7D7D7'/></span>
+        <span><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=plastic&logo=mysql&logoColor=000000&labelColor=FFFFFF&color=D7D7D7'/></span>
+      </div>
+    </section>
+    <section>
+      <h3 align="center">I'm currently learning</h3>
+      <div align="center" >
+        <span><img alt='angular' src='https://img.shields.io/badge/Angular-100000?style=flat&logo=angular&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></span>
+        <span><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=1500FF&labelColor=FFFFFF&color=FFFFFF'/></span>
+        <span><img alt='r' src='https://img.shields.io/badge/-100000?style=flat&logo=r&logoColor=0D00FF&labelColor=FFFFFF&color=FFFFFF'/></span>
+        <span><img alt='PYTHON' src='https://img.shields.io/badge/Python-100000?style=flat&logo=PYTHON&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></span>
+      </div>
+    </section>
+  </td>  
 </tr>
 
 <tr>
