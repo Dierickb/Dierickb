@@ -32,7 +32,18 @@
     <a href='https://github.com/angelicaba23/covid-webpage' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Source-100000?style=plastic&logo=Github&logoColor=000000&labelColor=E7FFE5&color=D7FFD3'/></a>
     <p>Aplicativo diseñado durante la pandemia, el cual está orientado a realziar seguimiento y gestionar los pacientes los cuales presentan sintomas. Tambien, permite visualizar las áreas más concentradas mediante un mpaa de calor</p>
   </div>
-</td>  
+</td> 
+</tr>
+
+<tr>
+  <td width="50%">
+    <h3 align="center">Card Sliders</h3>
+    <div align="center">
+      <a href='https://github.com/Dierickb/cardsForm_Astro' target="_blank"><img alt='Github' src='https://github.com/user-attachments/assets/4caa55c6-bcee-4afd-83b7-e6c15332ddf3'></a>
+      <a href='https://github.com/Dierickb/cardsForm_Astro' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Source-100000?style=plastic&logo=Github&logoColor=000000&labelColor=E7FFE5&color=D7FFD3'/></a>
+      <p>Template diseñado para interacción de formularios mediante "Cards" con un estilo spinner </p>
+    </div>
+  </td> 
 </tr>
 
 <tr>
